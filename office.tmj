@@ -427,7 +427,7 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"T\u00e9l\u00e9port",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"conference.tmj#from-office"
                         }],
