@@ -523,6 +523,11 @@
                  "name":"",
                  "properties":[
                         {
+                         "name":"Name",
+                         "type":"string",
+                         "value":"teleport"
+                        }, 
+                        {
                          "name":"exitUrl",
                          "type":"string",
                          "value":"BSX.tmj#from-office"
@@ -531,8 +536,8 @@
                  "type":"",
                  "visible":true,
                  "width":47.3333333333333,
-                 "x":387.333333333333,
-                 "y":218.5
+                 "x":382.666666666667,
+                 "y":217.833333333333
                 }],
          "opacity":1,
          "properties":[
