@@ -515,7 +515,7 @@
         {
          "draworder":"topdown",
          "id":91,
-         "name":"Calque d'Objets 1",
+         "name":"floorLayer",
          "objects":[
                 {
                  "height":38,
@@ -542,9 +542,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"conference.tmj#from-office",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"conference.tmj#from-office"
+                 "value":"bsx.tmg"
                 }],
          "type":"objectgroup",
          "visible":true,
