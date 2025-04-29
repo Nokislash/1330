@@ -783,7 +783,41 @@
          "draworder":"topdown",
          "id":91,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":35.5,
+                 "id":30,
+                 "name":"",
+                 "polygon":[
+                        {
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "x":36.5,
+                         "y":0
+                        }, 
+                        {
+                         "x":36.5,
+                         "y":35.5
+                        }, 
+                        {
+                         "x":0,
+                         "y":35.5
+                        }],
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"BSX.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":36.5,
+                 "x":413.045454545455,
+                 "y":225.727272727273
+                }],
          "opacity":1,
          "properties":[
                 {
@@ -807,7 +841,7 @@
          "y":0
         }],
  "nextlayerid":123,
- "nextobjectid":29,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "properties":[
         {
