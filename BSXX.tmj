@@ -159,7 +159,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"BSSX.tmj"
+                 "value":"BSSX2.tmj"
                 }],
          "type":"tilelayer",
          "visible":true,
