@@ -267,7 +267,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"office.tmj"
+                 "value":"office.tmj#intooff"
                 }],
          "type":"tilelayer",
          "visible":true,
