@@ -1208,6 +1208,69 @@
                  "y":0
                 }, 
                 {
+                 "draworder":"topdown",
+                 "id":102,
+                 "name":"Calque d'Objets 3",
+                 "objects":[
+                        {
+                         "height":73,
+                         "id":28,
+                         "name":"",
+                         "properties":[
+                                {
+                                 "name":"font-family",
+                                 "type":"string",
+                                 "value":"SLASH"
+                                }],
+                         "rotation":0,
+                         "type":"area",
+                         "visible":true,
+                         "width":97,
+                         "x":1153,
+                         "y":349
+                        }],
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"font-family",
+                         "type":"string",
+                         "value":"SLASH"
+                        }],
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
+                }, 
+                {
+                 "class":"area",
+                 "draworder":"topdown",
+                 "id":103,
+                 "name":"Calque d'Objets 4",
+                 "objects":[
+                        {
+                         "height":61,
+                         "id":29,
+                         "name":"",
+                         "rotation":0,
+                         "type":"",
+                         "visible":true,
+                         "width":108,
+                         "x":979,
+                         "y":285
+                        }],
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"font-family",
+                         "type":"string",
+                         "value":"SLASH"
+                        }],
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
+                }, 
+                {
                  "data":[0, 0, 0, 0, 0, 31952, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31954, 0, 0,
                     0, 0, 0, 0, 0, 31952, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31954, 0, 0,
                     0, 0, 0, 0, 0, 31952, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31954, 0, 0,
@@ -2000,6 +2063,40 @@
          "y":0
         }, 
         {
+         "class":"area",
+         "draworder":"topdown",
+         "id":104,
+         "name":"Chat zone 5",
+         "objects":[
+                {
+                 "height":77,
+                 "id":31,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":127,
+                 "x":1345,
+                 "y":264
+                }],
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"chatDescription",
+                 "type":"string",
+                 "value":"Noki workplace"
+                }, 
+                {
+                 "name":"chatName",
+                 "type":"string",
+                 "value":"Custom Chat Zone"
+                }],
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1799, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1799, 0, 0, 0, 0, 0, 0,
@@ -2060,8 +2157,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":102,
- "nextobjectid":28,
+ "nextlayerid":105,
+ "nextobjectid":32,
  "orientation":"orthogonal",
  "properties":[
         {

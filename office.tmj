@@ -79,7 +79,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"5_minutes_dans_lespace.mp3"
+                 "value":".\/5_minutes_dans_lespace.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
