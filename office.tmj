@@ -197,7 +197,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"BSXX.tmj"
+                 "value":".\/BSXX.tmj"
                 }],
          "type":"tilelayer",
          "visible":true,
