@@ -77,6 +77,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioVolume",
+                 "type":"string",
+                 "value":"0.2"
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":".\/5_minutes_dans_lespace.mp3"
