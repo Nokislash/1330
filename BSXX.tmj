@@ -513,7 +513,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"url",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/thunder-toaster-e7b.notion.site\/Lore-https:\/\/thunder-toaster-e7b.notion.site\/Principe-du-kanban-13cd6d37110280448452c3c02692e47b"
                 }],
@@ -570,9 +570,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/www.notion.so\/Lore-152d6d37110280468604cde128abc6e8?pvs=4"
+                 "value":"https:\/\/discord.com\/invite\/t8WtcmEvn4"
                 }],
          "type":"tilelayer",
          "visible":true,
