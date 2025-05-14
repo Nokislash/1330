@@ -221,7 +221,7 @@
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
-                 "value":"{ \n\"DEFAULT_BACKGROUND\": \"#2A00BD\" \n}"
+                 "value":"{ \n\"DEFAULT_BACKGROUND\": \"#000026\" \n}"
                 }, 
                 {
                  "name":"jitsiRoom",
