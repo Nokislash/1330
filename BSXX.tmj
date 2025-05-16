@@ -1470,7 +1470,7 @@
                         {
                          "name":"autoClose",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"doorVariable",
@@ -2767,6 +2767,39 @@
                  "width":0,
                  "x":616.333333333334,
                  "y":444.333333333333
+                }, 
+                {
+                 "height":0,
+                 "id":37,
+                 "name":"variabledoor",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"autoClose",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"code",
+                         "type":"string",
+                         "value":"12345"
+                        }, 
+                        {
+                         "name":"doorVariable",
+                         "type":"string",
+                         "value":"dooropen"
+                        }, 
+                        {
+                         "name":"zone",
+                         "type":"string",
+                         "value":"dooropenzone1"
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":657.833333333334,
+                 "y":441.833333333333
                 }],
          "offsetx":11.6666666666663,
          "offsety":-1.33333333333348,
@@ -2891,7 +2924,7 @@
          "y":0
         }],
  "nextlayerid":122,
- "nextobjectid":37,
+ "nextobjectid":38,
  "orientation":"orthogonal",
  "properties":[
         {
